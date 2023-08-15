@@ -1,1 +1,1 @@
-from k8s.gcr.io/k8s-images-build/kube-apiserver/kube-apiserver:v1.27.4
+From k8s.gcr.io/kube-apiserver/kube-apiserver:v1.27.4

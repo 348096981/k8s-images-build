@@ -3,4 +3,4 @@
 阿里镜像容器服务相关：
   构建上下文目录：该目录为需要github中创建的目录位置；
   Dockerfile文件名：为github下该目录中dockerfile名称
-  dockerfile文件内容：以form 开头，为k8s镜像网站中的镜像目录（eg:k8s.gcr.io/kube-controller-manager）
+  dockerfile文件内容：以form 开头，为k8s镜像网站中的镜像目录（eg:k8s.gcr.io/kube-controller-manager:v1.27.1）
